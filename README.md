@@ -1,1 +1,2 @@
-# Dashboard_Concession-ria
+Este dashboard analisa as vendas de algumas concessionárias de veículos no 3° trimestre de 2019, as concessionárias que tiveram maior número de vendas estão na cor azul, as que tiveram os menores números de vendas estão na cor laranja, as que tiveram um número mediano de vendas estão na cor cinza e a que está na cor preta, representa á media de venda de veículos.
+Neste projeto contém dois modelos de relatórios, o primeiro está com gráfico de linhas (totalmemnte poluído e de difícil compreensão), e o segundo está com gráficos de barras melhorando muito a visualização e compreensão dos dados, concluíndo que, além da importância do tratamento dos dados, também é fundamental a maneira de como os dados serão apresentados.
